@@ -40,6 +40,15 @@ When a subject is tiny, a background is cluttered, or an ordinary photograph nee
 - Makes whitespace an active element using positive/negative shapes, density, and asymmetrical balance.
 - Generates each original independently in one pass; paired modes remain exactly two 50:50 regions.
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -56,19 +65,6 @@ The Chinese original is preserved verbatim and is the sole runtime creative and 
 | Will it remain recognisable? | Keeps the most meaningful theme, structural movement, and relationships. |
 | Traditional realistic drawing? | Loose, slightly naive forms with an illustrative quick-sketch sensibility. |
 | Multiple delivery sizes? | Four modes, common/custom ratios, exact pixels, and directory batches. |
-
-## Transformation logic
-
-Understand theme and structural relationships → actively subtract → rearrange and crop → graphite contours, natural hatching, and light grey → compose with whitespace and sparse editorial text.
-
-## Recognisable finished traits
-
-- Black-and-white or natural graphite greys dominate; only tiny accents of 1–2 source-derived colours are optional.
-- Loose, slightly naive contours use natural hatching with a little cross-hatching.
-- Subjects may be off-centre, edge-adjacent, suspended, enlarged, reduced, or partially cropped.
-- Whitespace matters as much as the subject; removing information is preferable to filling the frame.
-- Sparse words or phrases derive from theme, place, emotion, or metaphor, with no fixed language, font, or format.
-- Avoids photographic replication, complex backgrounds, excessive detail, mechanical layouts, and templates.
 
 ## Four output modes
 
