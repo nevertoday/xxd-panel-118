@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 118｜Graphite Whitespace Sketch Chronicle: makes a fresh art-directed recomposition of a photo as a hand-drawn graphite pencil sketch — the key subject, a structural detail or a few related objects grouped as a theme, drawn with pencil outlines, natural hatching, a little cross-hatching and light grey tones, loose and slightly naive rather than academic, freely moved, enlarged, shrunk or cropped, even when the original framing is weak, inside very large deliberate whitespace, mostly black, white and graphite grey with at most one or two small accent colours taken from the photo, and a few quiet words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-118 or asks for graphite pencil sketch, hatching or minimal black-and-white drawing with lots of whitespace from a photo.",
+  "short_description": "石墨留白素描志：用石墨铅笔排线重新构图照片主体，灰调为主，留白极多",
+  "zh-CN": {
+    "name": "石墨留白素描志",
+    "tagline": "留下照片里值得记住的关系，用铅笔和大片留白重新构图。",
+    "look": "不照搬原图构图，而是挑出关键主体、局部结构或几样相关物件，组合成一张主题素描，原图主体再小、背景再乱也会重新安排。画法是石墨铅笔轮廓、自然排线、少量交叉排线和轻微灰调，造型松动、略稚拙，像插画速写，不是学院派写实。主体可以偏心、贴边、放大、缩小或裁切，四周是大量有意识的留白。整体以黑白和石墨灰为主，最多从照片取一两种颜色点在局部。文字只有几个词或一句话，安静地放在留白里。",
+    "traits": ["石墨轮廓", "排线灰调", "松弛稚拙素描", "灰色主导", "少量源图色", "超大留白"],
+    "good": [
+      "有几样相关物件、适合组合成主题的照片：咖啡杯和书、工具和工作台、背包和登山鞋",
+      "主体小或构图普通、需要重新安排的随手拍：远处的人、角落里的猫、桌上一角",
+      "想做成黑白编辑插画、书籍内页或速写本风格海报的照片"
+    ],
+    "poor": [
+      "颜色是重点的照片：花海、彩色灯光、色彩鲜艳的服装，画面基本只剩灰调",
+      "需要学院派写实素描或照片式复刻的需求",
+      "想要满版背景、密集细节或彩色插画的需求"
+    ]
+  },
+  "en": {
+    "name": "Graphite Whitespace Sketch Chronicle",
+    "tagline": "Keeps the relationships worth remembering in a photo, then recomposes them with pencil and open space.",
+    "look": "The original framing is not copied: the key subject, a structural detail or a few related objects are chosen and grouped into one themed sketch, rearranged even when the subject is tiny or the background messy. It is drawn with graphite pencil outlines, natural hatching, a little cross-hatching and light grey tones, loose and slightly naive like an illustrator's sketch rather than academic realism. The subject may be moved off-centre, set against an edge, enlarged, shrunk or cropped, with large, deliberate whitespace all around. The look is mainly black, white and graphite grey, with at most one or two colours from the photo used in small spots. Text is only a few words or one line, resting quietly in the space.",
+    "traits": ["Graphite outlines", "Hatching and grey tone", "Loose naive sketch", "Grey-led palette", "A little photo colour", "Very wide whitespace"],
+    "good": [
+      "Photos with a few related objects that can form a theme: a coffee cup and a book, tools on a workbench, a backpack and hiking boots",
+      "Snaps with a small subject or ordinary framing that need rearranging: a distant figure, a cat in a corner, part of a table",
+      "Photos you want as black-and-white editorial illustration, book pages or a sketchbook-style poster"
+    ],
+    "poor": [
+      "Photos where colour is the point: flower fields, coloured lights, bright outfits; the result is mostly grey",
+      "Requests for academic realistic drawing or a photo-like copy",
+      "Requests for a filled background, dense detail or full-colour illustration"
+    ]
+  },
+  "ja": {
+    "name": "石墨と余白の素描誌",
+    "tagline": "写真の中の覚えておきたい関係を残し、鉛筆と余白で構図を組み直します。",
+    "look": "元の構図はなぞらず、要となる主役、構造の一部、関連する物をいくつか選んで、ひとつのテーマのある素描にまとめます。主役が小さくても背景が散らかっていても並べ直します。描き方は黒鉛鉛筆の輪郭、自然なハッチング、少しのクロスハッチング、淡いグレーの調子で、アカデミックな写実ではなく、ゆるく少し素朴なイラストのスケッチです。主役は中心から外したり、端に寄せたり、大きくしたり小さくしたり、切り取ったりでき、まわりには意図した広い余白をとります。全体は黒、白、鉛筆のグレーが中心で、写真から取った色は多くても一、二色を小さく使うだけです。文字は数語か一行だけで、余白に静かに置かれます。",
+    "traits": ["黒鉛の輪郭", "ハッチングとグレー", "ゆるく素朴な素描", "グレーが主役", "写真の色を少し", "とても広い余白"],
+    "good": [
+      "テーマとしてまとめられる関連した物がいくつかある写真：コーヒーカップと本、作業台の道具、リュックと登山靴",
+      "主役が小さい、構図がふつうで並べ直したいスナップ：遠くの人、隅の猫、テーブルの一角",
+      "白黒のエディトリアルイラスト、本の挿絵、スケッチブック風ポスターにしたい写真"
+    ],
+    "poor": [
+      "色が見どころの写真：花畑、カラフルな照明、鮮やかな服（ほとんどグレーだけになります）",
+      "アカデミックな写実デッサンや写真のような再現を求める場合",
+      "背景を埋めた絵、密な細部、フルカラーのイラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "흑연 여백 스케치 기록",
+    "tagline": "사진 속 기억할 만한 관계를 남기고, 연필과 여백으로 구도를 새로 짭니다.",
+    "look": "원래 구도를 따르지 않고, 핵심 주인공, 구조의 일부, 관련된 물건 몇 가지를 골라 하나의 주제 스케치로 묶습니다. 주인공이 아주 작거나 배경이 어수선해도 새로 배치합니다. 흑연 연필 윤곽, 자연스러운 해칭, 약간의 크로스 해칭, 옅은 회색 톤으로 그리며, 아카데믹한 사실 묘사가 아니라 느슨하고 조금 서툰 일러스트 스케치입니다. 주인공은 중심에서 비키거나 가장자리에 붙이거나 키우고 줄이고 자를 수 있으며, 주위에는 의도한 넓은 여백이 있습니다. 전체는 검정, 흰색, 흑연 회색이 중심이고, 사진에서 가져온 색은 많아야 한두 가지를 작은 부분에만 씁니다. 글자는 몇 단어나 한 줄뿐으로 여백에 조용히 놓입니다.",
+    "traits": ["흑연 윤곽", "해칭과 회색 톤", "느슨하고 서툰 스케치", "회색 중심", "사진 색 약간", "아주 넓은 여백"],
+    "good": [
+      "주제로 묶을 수 있는 관련 물건이 몇 가지 있는 사진: 커피잔과 책, 작업대의 공구, 배낭과 등산화",
+      "주인공이 작거나 구도가 평범해 다시 배치하고 싶은 스냅: 멀리 있는 사람, 구석의 고양이, 탁자 한쪽",
+      "흑백 편집 일러스트, 책 속 삽화, 스케치북 느낌 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색이 핵심인 사진: 꽃밭, 컬러 조명, 화려한 옷(결과는 거의 회색만 남습니다)",
+      "아카데믹한 사실 소묘나 사진 같은 재현을 원하는 경우",
+      "배경을 채운 그림, 빽빽한 세부, 풀컬러 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "سجلّ اسكتشات الغرافيت والفراغ",
+    "tagline": "يحتفظ بالعلاقات الجديرة بالتذكر في الصورة، ثم يعيد تكوينها بقلم الرصاص والفراغ.",
+    "look": "لا يُنسخ التأطير الأصلي، بل يُختار العنصر الأساسي أو تفصيل من بنيته أو بضعة أشياء مترابطة وتُجمع في اسكتش واحد ذي موضوع، ويُعاد ترتيبها حتى لو كان العنصر صغيراً جداً أو الخلفية فوضوية. يُرسم بخطوط قلم غرافيت وتظليل طبيعي وقليل من التظليل المتقاطع ودرجات رمادية خفيفة، مرتخياً وفيه شيء من السذاجة كاسكتش رسام لا كواقعية أكاديمية. يمكن إزاحة العنصر عن المركز أو إلصاقه بحافة أو تكبيره أو تصغيره أو قصه، مع فراغ واسع مقصود من حوله. يغلب الأسود والأبيض ورمادي الغرافيت، ولا يُستعمل من ألوان الصورة إلا لون أو لونان على الأكثر في مواضع صغيرة. النص بضع كلمات أو سطر واحد فقط، يستقر بهدوء في الفراغ.",
+    "traits": ["محيطات الغرافيت", "تظليل ودرجات رمادية", "اسكتش مرتخٍ ساذج", "الرمادي هو الغالب", "قليل من ألوان الصورة", "فراغ واسع جداً"],
+    "good": [
+      "صور فيها بضعة أشياء مترابطة يمكن أن تصنع موضوعاً: فنجان قهوة وكتاب، أدوات على طاولة عمل، حقيبة ظهر وحذاء مشي",
+      "لقطات بعنصر صغير أو تأطير عادي تحتاج إلى إعادة ترتيب: شخص بعيد، قطة في زاوية، جزء من طاولة",
+      "صور تريدها رسماً تحريرياً بالأبيض والأسود أو صفحات كتاب أو ملصقاً بروح دفتر الرسم"
+    ],
+    "poor": [
+      "صور يكون اللون فيها هو الجوهر: حقول الزهور، الأضواء الملونة، الملابس الزاهية؛ فالنتيجة رمادية في معظمها",
+      "طلب رسم أكاديمي واقعي أو نسخة تشبه الصورة",
+      "طلب خلفية مملوءة أو تفاصيل كثيفة أو رسم كامل الألوان"
+    ]
+  }
+}
